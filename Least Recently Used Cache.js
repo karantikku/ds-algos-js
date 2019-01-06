@@ -80,4 +80,4 @@ cache.refer(1);
 cache.refer(4); 
 cache.refer(5); 
 
-console.log('cache: ', ca.display());
+console.log('cache: ', cache.display());
